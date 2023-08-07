@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Samy Essam</h1>
 <h3 align="center">Front end Developer (Reactjs)</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
 
 
-<picture> <img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 50%></picture>
 
 
 <h3 align="left">Languages and Tools:</h3>
