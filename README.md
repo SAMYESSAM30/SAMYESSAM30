@@ -13,7 +13,7 @@
 
 <br><br>
 
-- :school: I am a `graduate` at [Faculty of Computers & Informatics](https://thebes.edu.eg/) at [Thebes Academy](https://thebes.edu.eg/).
+- :school: I am a `graduate` at [Faculty of Computers & Informatics](https://thebes.edu.eg/ar/institutes/thebes-higher-institute-of-computer-management-sciences%20-%20Maadi) at [Thebes Academy](https://thebes.edu.eg/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :nerd_face: Always `learning new things`.
