@@ -17,7 +17,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :nerd_face: Always `learning new things`.
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/).
+- :boom: You can visit [MY WEBSITE](https://new-portfolia.vercel.app/).
 <br>
 
 
