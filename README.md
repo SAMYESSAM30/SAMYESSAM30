@@ -7,9 +7,9 @@
 
 
 	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/SAMYESSAM30/SAMYESSAM30/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/SAMYESSAM30/SAMYESSAM30/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
@@ -21,7 +21,7 @@
 <br>
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+## <picture> <img src="https://github.com/SAMYESSAM30/SAMYESSAM30/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
   <a href="https://codeforces.com/profile/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
@@ -32,7 +32,7 @@
 	<a href="https://www.codingame.com/profile/" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
 </p>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <img src="https://github.com/SAMYESSAM30/SAMYESSAM30/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:samyessam2000@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/SAMYESSAM30"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -46,7 +46,7 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/SAMYESSAM30/SAMYESSAM30/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
 <p align="center"> 
   &emsp; 
@@ -71,7 +71,7 @@
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+### <picture> <img src = "https://github.com/SAMYESSAM30/SAMYESSAM30/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -91,7 +91,7 @@
    </a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ ### <picture> <img src = "https://github.com/SAMYESSAM30/SAMYESSAM30/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
 <p align="center">
   &emsp;
@@ -120,7 +120,7 @@
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+ ### <picture> <img src = "https://github.com/SAMYESSAM30/SAMYESSAM30/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
  
 <p align="center">
   &emsp;
@@ -133,7 +133,7 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
+ ### <picture> <img src = "https://github.com/SAMYESSAM30/SAMYESSAM30/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
  
 <p align="center">
   &emsp;
@@ -150,7 +150,7 @@
     <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+ ### <picture> <img src = "https://github.com/SAMYESSAM30/SAMYESSAM30/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
 <p align="center">
   &emsp;
@@ -173,7 +173,7 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <picture> <img src = "https://github.com/SAMYESSAM30/SAMYESSAM30/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
@@ -189,8 +189,8 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
+	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SAMYESSAM30&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SAMYESSAM30&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -201,7 +201,7 @@
 
 ----
 	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=7oSkaaa&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
+[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SAMYESSAM30&theme=github	)](https://github.com/SAMYESSAM30/github-readme-activity-graph)
 
  
 </details>
@@ -210,9 +210,9 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/SAMYESSAM30/github-readme-activity-graphhttps://github-profile-trophy.vercel.app/?username=SAMYESSAM30&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="SAMYESSAM30" /></a> </p>
 
-[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
+[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=SAMYESSAM30)](https://holopin.io/@SAMYESSAM30)
 	
 </details>
 	
@@ -222,65 +222,65 @@
 	
 <div>
   <p align="center">
-	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/SAMYESSAM30/LeetCode_DailyChallenge_2023">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAMYESSAM30&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/SAMYESSAM30/Ahmed-Hossam">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAMYESSAM30&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/7oSkaaa/Strees_Testing">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/SAMYESSAM30/Strees_Testing">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAMYESSAM30&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/7oSkaaa/CP-Templates">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/SAMYESSAM30/CP-Templates">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAMYESSAM30&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/7oSkaaa/Codeforces-Polygon-Template">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/SAMYESSAM30/Codeforces-Polygon-Template">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAMYESSAM30&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Some-Linux-Commands">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/SAMYESSAM30/Some-Linux-Commands">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAMYESSAM30&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Shorten-Link">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/SAMYESSAM30/Shorten-Link">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAMYESSAM30&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/7oSkaaa">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=7oSkaaa&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/SAMYESSAM30/SAMYESSAM30">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAMYESSAM30&repo=SAMYESSAM30&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Competitive-Programming-Session-Content">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/SAMYESSAM30/Competitive-Programming-Session-Content">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAMYESSAM30&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/VS-Code-for-CP">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/SAMYESSAM30/VS-Code-for-CP">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAMYESSAM30&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Sorting-Algorithms">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/SAMYESSAM30/Sorting-Algorithms">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAMYESSAM30&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/board-link-generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/SAMYESSAM30/board-link-generator">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAMYESSAM30&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Tic-Tac-Toe-GUI">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/SAMYESSAM30/Tic-Tac-Toe-GUI">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAMYESSAM30&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/PhoneBook-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/SAMYESSAM30/PhoneBook-System">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAMYESSAM30&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Codeforces-Sheet-Generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/SAMYESSAM30/Codeforces-Sheet-Generator">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAMYESSAM30&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/CP-Calendar">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/SAMYESSAM30/CP-Calendar">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAMYESSAM30&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Codeforces-Friends-Script">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/SAMYESSAM30/Codeforces-Friends-Script">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAMYESSAM30&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/vJudge-Board-Scrapper">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/SAMYESSAM30/vJudge-Board-Scrapper">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAMYESSAM30&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/CP-Templates-Snippets">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/SAMYESSAM30/CP-Templates-Snippets">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAMYESSAM30&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Udemy-Website">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/SAMYESSAM30/Udemy-Website">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=SAMYESSAM30&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
@@ -291,5 +291,5 @@
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/SAMYESSAM30/SAMYESSAM30/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
