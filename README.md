@@ -21,7 +21,7 @@
 <br>
 
 
-## <picture> <img src="https://github.com/SAMYESSAM30/SAMYESSAM30/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+## <picture> <img src="https://github.com/7oskaaa/7oskaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
   <a href="https://codeforces.com/profile/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
@@ -32,7 +32,7 @@
 	<a href="https://www.codingame.com/profile/" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
 </p>
 
-## <picture> <img src="https://github.com/SAMYESSAM30/SAMYESSAM30/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <img src="https://github.com/7oskaaa/7oskaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:samyessam2000@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/SAMYESSAM30"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -46,7 +46,7 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/SAMYESSAM30/SAMYESSAM30/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/7oskaaa/7oskaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
 <p align="center"> 
   &emsp; 
@@ -71,7 +71,7 @@
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/SAMYESSAM30/SAMYESSAM30/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+### <picture> <img src = "https://github.com/7oskaaa/7oskaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -91,7 +91,7 @@
    </a>
 </p>
 
- ### <picture> <img src = "https://github.com/SAMYESSAM30/SAMYESSAM30/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ ### <picture> <img src = "https://github.com/7oskaaa/7oskaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
 <p align="center">
   &emsp;
@@ -120,7 +120,7 @@
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
- ### <picture> <img src = "https://github.com/SAMYESSAM30/SAMYESSAM30/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+ ### <picture> <img src = "https://github.com/7oskaaa/7oskaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
  
 <p align="center">
   &emsp;
@@ -133,7 +133,7 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
- ### <picture> <img src = "https://github.com/SAMYESSAM30/SAMYESSAM30/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
+ ### <picture> <img src = "https://github.com/7oskaaa/7oskaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
  
 <p align="center">
   &emsp;
@@ -150,7 +150,7 @@
     <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
 
- ### <picture> <img src = "https://github.com/SAMYESSAM30/SAMYESSAM30/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+ ### <picture> <img src = "https://github.com/7oskaaa/7oskaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
 <p align="center">
   &emsp;
@@ -173,7 +173,7 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture> <img src = "https://github.com/SAMYESSAM30/SAMYESSAM30/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <picture> <img src = "https://github.com/7oskaaa/7oskaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
