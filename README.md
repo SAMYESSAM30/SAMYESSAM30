@@ -174,8 +174,6 @@
 </p>
 
 
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
 ----
 	
 <div>
