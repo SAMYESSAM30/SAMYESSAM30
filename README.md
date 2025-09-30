@@ -58,11 +58,31 @@
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=SAMYESSAM30&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
-<!--- trophy (start) -->
+<!--- trophy (end) -->
 
 
 </p>        
 <!--- stats (end) -->
+
+
+<!-- 📊 Activity Graph -->
+</br>
+<h2 align="center">📊 Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMYESSAM30&custom_title=Samy's%20Contribution%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" alt="Samy Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-05122A" />
+  <img src="https://img.shields.io/github/followers/SAMYESSAM30?style=flat&logo=github&color=05122A&labelColor=05122A" />
+  <img src="https://komarev.com/ghpvc/?username=SAMYESSAM30&style=flat&labelolor=05122A&color=05122A" />
+</p>
+
 
 
 <!--h1 without bottom border-->
