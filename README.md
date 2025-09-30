@@ -96,9 +96,10 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,angular,bootstrap,arduino,css,dart,flutter,figma,firebase,github,gitlab,html,js,ts,postman,react,nextjs,tailwind,vue&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,bootstrap,tailwind,dart,flutter,reactnative,aws,firebase,postman,arduino,figma,github,gitlab&perline=10" />
   </a>
 </p>
+
 
 
 
