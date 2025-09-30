@@ -1,6 +1,6 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+
 <!--h1-->
 <div id="user-content-toc">
   <ul align="center">
@@ -102,16 +102,14 @@
 ---
 
 **I'm a Night 🦉** 
-<details>
+
 ```text
 🌞 Morning    45 commits   ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 🌆 Daytime    76 commits   ███████░░░░░░░░░░░░░░░░░░   28.15 % 
 🌃 Evening    119 commits  ███████████░░░░░░░░░░░░░░   44.07 % 
 🌙 Night      30 commits   ███░░░░░░░░░░░░░░░░░░░░░░   11.11 %
 
-<details/>
 
 
-<!-- GIF FOOTER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
