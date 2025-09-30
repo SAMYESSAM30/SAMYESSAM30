@@ -98,13 +98,20 @@
   <a href="https://www.facebook.com/share/fLus7ko81aHvHGN9/?mibextid=eQY6cl"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.instagram.com/santa_30"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 ---
 
 **I'm a Night 🦉** 
-
+<details>
 ```text
 🌞 Morning    45 commits   ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 🌆 Daytime    76 commits   ███████░░░░░░░░░░░░░░░░░░   28.15 % 
 🌃 Evening    119 commits  ███████████░░░░░░░░░░░░░░   44.07 % 
-🌙 Night      30 commits   ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+🌙 Night      30 commits   ███░░░░░░░░░░░░░░░░░░░░░░   11.11 %
+
+<details/>
+
+
+<!-- GIF FOOTER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
