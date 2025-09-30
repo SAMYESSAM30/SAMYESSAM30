@@ -65,22 +65,22 @@
 <!-- Technologies -->
 <h2 align="center">🛠️ Technologies That I Know</h2>
 
-#### 🌐 Web
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,bootstrap,tailwind&perline=10" />
 </p>
 
-#### 📱 Mobile
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart,flutter&perline=10" />
 </p>
 
-#### ☁️ Backend & Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,firebase,postman,arduino&perline=10" />
 </p>
 
-#### 🎨 Design & Collaboration
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,github,gitlab&perline=10" />
 </p>
