@@ -72,7 +72,7 @@
 
 #### 📱 Mobile
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,reactnative&perline=10" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter&perline=10" />
 </p>
 
 #### ☁️ Backend & Tools
