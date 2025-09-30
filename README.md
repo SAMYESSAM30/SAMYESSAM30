@@ -54,13 +54,7 @@
 
 ---
 
-<!-- 📊 Activity Graph -->
-<h2 align="center">📊 Activity Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAMYESSAM30&custom_title=Samy's%20Contribution%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" />
-</p>
 
----
 
 <!-- Technologies -->
 <h2 align="center">🛠️ Technologies That I Know</h2>
