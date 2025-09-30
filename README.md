@@ -95,6 +95,8 @@
 🌃 Evening    119 commits  ███████████░░░░░░░░░░░░░░   44.07 % 
 🌙 Night      30 commits   ███░░░░░░░░░░░░░░░░░░░░░░   11.11 %
 ```
+<!--END_SECTION:waka-->
+---
 <!-- Connect with me -->
 <h2 align="center">🤝 Connect With Me</h2>
 <p align="center">
@@ -106,8 +108,8 @@
   <a href="https://www.instagram.com/santa_30"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
----
 
 
-<!--END_SECTION:waka-->
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
