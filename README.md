@@ -117,6 +117,19 @@
 <a href="https://www.instagram.com/santa_30"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
 </p>
 
+<!--START_SECTION:waka-->
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                45 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+🌆 Daytime                76 commits          ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+🌃 Evening                119 commits         ███████████░░░░░░░░░░░░░░   44.07 % 
+🌙 Night                  30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+```
+
 
 <!--profile visit count-->
 <div align="center">
