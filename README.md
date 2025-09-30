@@ -123,9 +123,7 @@
 <a href="https://www.instagram.com/santa_30"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
 </p>
 
-<!--START_SECTION:waka-->
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
