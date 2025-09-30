@@ -33,13 +33,6 @@
 
 ---
 
-## 🌟 Projects Highlights
-- 🏗️ **Housing Ministry Dashboard (Saudi Arabia)** → Digital transformation project serving thousands of citizens.  
-- 🤖 **AI Translation Tool** → Neural Machine Translation (English ↔ Arabic) with evaluation metrics (BLEU Score).  
-- 📱 **React Native App (Koora Live Now clone)** → Live scores & news streaming with real-time API integration.  
-
----
-
 <!--- stats & Trophy -->
 <p align="center">
   <table>
@@ -62,31 +55,32 @@
 
 ---
 
-<!-- Technologies -->
-<h2 align="center">🛠️ Tech Stack</h2>
 
-### 🌐 Frontend
+
+<!-- Technologies -->
+<h2 align="center">🛠️ Technologies That I Know</h2>
+
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,bootstrap,tailwind&perline=10" />
 </p>
 
-### 📱 Mobile
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart,flutter&perline=10" />
 </p>
 
-### ☁️ Backend & Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,firebase,postman,arduino&perline=10" />
 </p>
 
-### 🎨 Design & Collaboration
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,github,gitlab&perline=10" />
 </p>
 
 ---
-
 <h2 align="center">I'm a Night 🦉</h2>
 
 <!--START_SECTION:waka-->
@@ -95,3 +89,22 @@
 🌆 Daytime    76 commits   ███████░░░░░░░░░░░░░░░░░░   28.15 % 
 🌃 Evening    119 commits  ███████████░░░░░░░░░░░░░░   44.07 % 
 🌙 Night      30 commits   ███░░░░░░░░░░░░░░░░░░░░░░   11.11 %
+```
+<!--END_SECTION:waka-->
+---
+<!-- Connect with me -->
+<h2 align="center">🤝 Connect With Me</h2>
+<p align="center">
+  <a href="mailto:samyessam2000@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/SAMYESSAM30"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://wa.me/0201141627898"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/samy-essam-bb2411236/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/share/fLus7ko81aHvHGN9/?mibextid=eQY6cl"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/santa_30"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
