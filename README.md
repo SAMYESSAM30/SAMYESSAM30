@@ -8,12 +8,6 @@
   </ul>
 </div>
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/SAMYESSAM30/SAMYESSAM30/blob/output/github-contribution-grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
